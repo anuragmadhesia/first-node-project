@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background: rgba(135, 207, 235, 0.479);
+}
+
+footer {
+    margin-top: auto;
+}
+
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 0;
+    margin: 100px 300px;
+    border-radius: 5px;
+    background: orange;
+}
+
+h1 {
+    padding-top: 40px;
+    color: darkblue;
+}
